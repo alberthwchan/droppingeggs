@@ -62,6 +62,6 @@ int main(void) {
 	cout << "besti=" << besti(100) << endl;
 	travel();
 	cout << "totalstep=" << totalstep << endl;
-
+	//test
 	return 0;
 }
